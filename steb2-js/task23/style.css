@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+div{
+	border: 1px solid black;
+	display: flex;
+	padding: 2px;
+	margin: 2px;
+	background-color: #ffffff;
+}
+.root{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	align-content:flex-start;
+	align-items:stretch;
+	height:150px;
+	width: 1200px;
+	margin:auto;
+	margin-top: 20px;
+}
+
+button{
+	padding: 5px 10px;
+	margin: 20px 20px 20px auto;
+}
+#btn1{
+	margin-left: 450px;
+}

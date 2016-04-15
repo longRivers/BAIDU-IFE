@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#city-select{
+	display: inline-block;
+	margin-left: 50px;
+}
+
+#aqi-chart-wrap{
+	margin: auto;
+	width:1200px;
+	height:540px;
+	border-radius: 15px;
+	margin-top: 10px;
+	border:1px solid black;
+	padding:0 15px 0 15px;
+	margin-bottom: 20px;
+}
+
+.gram_line{
+	float: left;
+	height:540px;
+	overflow: hidden;
+}

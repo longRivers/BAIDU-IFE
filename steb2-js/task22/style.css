@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+div{
+	display: inline-block;
+	border: 1px solid black;
+	padding: 10px 7px 10px 7px;
+	background-color: white;
+}
+.root{
+	margin-left: 500px;
+	margin-top: 30px;
+}
+.son3{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+button{
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 50px;
+}
+#btn1{
+	margin-left:570px; 
+}
